@@ -1,8 +1,0 @@
-catagory: power
-research: Singularity-A
-requirements: [
-  copper/500
-  lead/250
-  silicon/300
-  plastanium/50
-]
