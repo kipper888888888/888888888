@@ -6,7 +6,6 @@ health: 500
 size: 5
 hasPower: true
 hasItems: true
-hasLiquid: true 
 itemCapacity: 2000
 craftTime: 180
 updateEffect: smeltsmoke
