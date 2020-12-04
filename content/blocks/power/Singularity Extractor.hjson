@@ -1,9 +1,3 @@
-
-consumesPower: false
-producesPower: true
-itemDuration: 43200
-powerProduction: 300
-
 type: NuclearReactor
 name: "Tiny Singularity Extractor"
 description: "Has the ability to take power out of a grade A singularity without killing it. It takes about two real life hours to use all the power in the singularity."
@@ -13,8 +7,8 @@ hasLiquids: true
 hasItems: true
 itemCapacity: 10
 liquidCapacity: 10
-itemDuration: 110
-powerProduction: 42
+itemDuration: 43200
+powerProduction: 300
 heating: 0.04
 smokeThreshold: 0.48
 explosionRadius: 50 
