@@ -1,6 +1,3 @@
-name: Tiny Singularity Extractor
-description: Has the ability to take power out of a grade A singularity without killing it. It takes about two real life hours to use all the power in the singularity. 
-size: 3
 
 consumesPower: false
 producesPower: true
@@ -8,9 +5,9 @@ itemDuration: 43200
 powerProduction: 300
 
 type: NuclearReactor
-name: "Refrigerant Reactor"
-description: "Upgraded Thorium Reactor.Now he use the Refrigerant."
-size: 4
+name: "Tiny Singularity Extractor"
+description: "Has the ability to take power out of a grade A singularity without killing it. It takes about two real life hours to use all the power in the singularity."
+size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
